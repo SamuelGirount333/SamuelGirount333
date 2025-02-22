@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SamuelGirount333/First_proyect">
-  <img src="https://raw.githubusercontent.com/SamuelGirount333/First_proyect/main/images/sam_giraldo_logo.png" width="400" alt="Sam Giraldo Logo">
+  <img src="images/Sam%20Giraldo%20by%20Samuel%20Giraldo%20software%20engineer%20%26%20content%20creator%201%20web%2001.png" width="400" alt="Sam Giraldo Logo">
 </a>
 
   </a>
