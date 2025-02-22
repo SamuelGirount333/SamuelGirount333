@@ -30,8 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/github_SamuelGirount333/First_proyect">
+    <img src="images/https://github.com/SamuelGirount333/First_proyect/blob/main/imagenes/Sam%20Giraldo%20by%20Samuel%20Giraldo%20software%20engineer%20%26%20content%20creator%201%20web%2001.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
