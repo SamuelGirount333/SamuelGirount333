@@ -12,8 +12,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/SamuelGirount333/First_proyect">
-  <img src="images/Sam%20Giraldo%20by%20Samuel%20Giraldo%20software%20engineer%20%26%20content%20creator%201%20web%2001.png" width="400" alt="Sam Giraldo Logo">
-</a>
+    <img src="imagenes/Sam Giraldo by Samuel Giraldo software engineer & content creator 1 web 01.png" width="600" alt="Sam Giraldo Logo" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  </a>
+</div>
+
 
   </a>
 
