@@ -1,158 +1,55 @@
-# 💬 Samuel Gómez | Desarrollador Web & Especialista en RPA
+<h1 align="center">Hello world!, I'm Samuel Gómez</h1>
+<p align="center"><a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=900&lines=Software+developer+focused+on+creating+innovative+solutions.;Passionate+about+automation+and+AI+technologies.;Specialized+in+RPA,+chatbots,+and+automation+for+businesses.;Experienced+in+Python,+Node.js,+Django,+FastAPI+and+Odoo+development.;Constantly+learning+and+improving+my+programming+skills." alt="Typing SVG" align="center" /></a></p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/SamuelGirount333/Software-Tech.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/SamuelGirount333/Software-Tech.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/SamuelGirount333/Software-Tech.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/SamuelGirount333/Software-Tech.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/SamuelGirount333/Software-Tech.svg?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=0A66C2
+# About Me:
+I am a software developer passionate about automation and creating innovative solutions. I specialize in Robotic Process Automation (RPA), chatbots, and backend development with technologies like Python, Django, FastAPI, and Node.js. Currently working on revolutionizing how businesses automate their processes. With knowledge of Odoo and a deep understanding of automation for small, medium, and large enterprises, I strive to create robust and scalable systems. Always looking to learn more and collaborate on exciting new projects!
 
-[forks-url]: https://github.com/SamuelGirount333/Software-Tech/network/members
-[stars-url]: https://github.com/SamuelGirount333/Software-Tech/stargazers
-[issues-url]: https://github.com/SamuelGirount333/Software-Tech/issues
-[license-url]: https://github.com/SamuelGirount333/Software-Tech/blob/main/LICENSE
-[linkedin-url]: https://www.linkedin.com/in/tu-linkedin-username
+# 💻 Tech Stack:
+## Dev Stack 🧑🏽‍💻
+### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-[![Contributors][contributors-shield]](https://github.com/SamuelGirount333/Software-Tech)
-[![Forks][forks-shield]](forks-url)
-[![Stargazers][stars-shield]](stars-url)
-[![Issues][issues-shield]](issues-url)
-[![License][license-shield]](license-url)
-[![LinkedIn][linkedin-shield]](linkedin-url)
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300A9E0.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/SamuelGirount333/First_proyect">
-    <img src="imagenes/Sam Giraldo by Samuel Giraldo software engineer & content creator 1 web 01.png" width="600" alt="Sam Giraldo Logo" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  </a>
-</div>
+### Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
+### DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
-  </a>
+### Authenticator & Security
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<h3 align="center">Proyectos de IA y Automatización</h3>
+## Productivity Tools 📈
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%231772A8.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-  <p align="center">
-    Soluciones inteligentes para optimizar procesos empresariales.
-    <br />
-    <a href="https://github.com/github_SamuelGirount333/First_proyect"><strong>Explora los proyectos »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_SamuelGirount333/First_proyect">Ver Demo</a>
-    &middot;
-    <a href="https://github.com/github_SamuelGirount333/First_proyect/issues/new?labels=bug&template=bug-report---.md">Reportar Bug</a>
-    &middot;
-    <a href="https://github.com/github_SamuelGirount333/First_proyect/issues/new?labels=enhancement&template=feature-request---.md">Solicitar Función</a>
-  </p>
-</div>
+## Hosting/Deployment ☁️
+![Odoo.sh](https://img.shields.io/badge/odoo.sh-%232F4858.svg?style=for-the-badge&logo=odoo&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+<br/>
 
-
-<!-- ABOUT THE PROJECT -->
-## 📊 Sobre los Proyectos
-
-### 🤖 **Chatbot Conversacional**
-Un chatbot avanzado desarrollado en **Python** usando **Flask** y **FastAPI**. Este sistema permite la interacción natural con usuarios, ideal para atención al cliente, soporte técnico o ventas.
-
-**Características:**
-- Respuestas inteligentes y personalizadas.
-- Integración con APIs externas.
-- Interfaz simple y fácil de usar.
-
-### 📞 **Asistente de Llamadas con IA**
-Un asistente virtual impulsado por **IA** que automatiza llamadas telefónicas usando **Python** y **Django**. Capaz de interpretar solicitudes, agendar citas y brindar información sin intervención humana.
-
-**Características:**
-- Reconocimiento de voz y procesamiento de lenguaje natural.
-- Capacidad de realizar y recibir llamadas.
-- Manejo de múltiples flujos conversacionales.
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-
-## 🛠️ Tecnologías Utilizadas
-
-- **Lenguajes:** `Python`
-- **Frameworks:** `Django`, `Flask`, `FastAPI`, `Tkinter`
-- **Bases de Datos:** `SQLite`, `PostgreSQL`
-- **Otras Tecnologías:** `APIs REST`, `Procesamiento de Lenguaje Natural (NLP)`
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-
-## 🚀 Instalación
-
-### 📋 Prerrequisitos
-
-- Python 3.x
-- pip
-
-### ⚙️ Pasos para Configuración
-
-1. Clona el repositorio
-   ```sh
-   git clone https://github.com/github_SamuelGirount333/First_proyect.git
-   ```
-2. Instala los paquetes necesarios
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Ejecuta el servidor local
-   ```sh
-   python manage.py runserver
-   ```
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-
-## 📖 Uso
-
-- **Chatbot:** Inicia el servidor y accede al chatbot desde el navegador.
-- **Asistente de Llamadas:** Configura tus credenciales de llamada y prueba las funciones desde la terminal o el panel web.
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-
-## 📌 Roadmap
-
-- [ ] Mejoras en el procesamiento del lenguaje natural.
-- [ ] Integración con WhatsApp y Telegram.
-- [ ] Soporte multilingüe.
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-
-## 🤝 Contribuciones
-
-¡Toda contribución es bienvenida! Si tienes ideas o mejoras, no dudes en abrir un pull request.
-
-1. Haz un fork del proyecto
-2. Crea una rama (`git checkout -b feature/AmazingFeature`)
-3. Realiza tus cambios
-4. Envía un pull request
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-
-## 📬 Contacto
-
-Samuel Gómez - [LinkedIn](https://linkedin.com/in/linkedin_username) - email@email_client.com
-
-Proyecto en GitHub: [Repositorio](https://github.com/github_SamuelGirount333/First_proyect)
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/samuel-gomez
+# 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SamuelGomezDev&show_icons=true&locale=en&theme=transparent&layout=donut" alt="SamuelGomezDev" /></p>
+<br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelGomezDev&show_icons=true&locale=en&theme=transparent" alt="SamuelGomezDev" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelGomezDev&theme=transparent" alt="SamuelGomezDev" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelGomezDev&label=Profile%20views&color=0e75b6&style=flat" alt="SamuelGomezDev" /> </p>
