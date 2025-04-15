@@ -1,6 +1,6 @@
 # 💬 Samuel Gómez | Desarrollador Web & Especialista en RPA
 
-[![Contributors][contributors-shield]][[contributors-url](https://github.com/SamuelGirount333/Software-Tech)]
+[![Contributors][contributors-shield]][[https://github.com/SamuelGirount333/Software-Tech]]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
