@@ -1,11 +1,18 @@
 # 💬 Samuel Gómez | Desarrollador Web & Especialista en RPA
 
-[![Contributors][contributors-shield]](https://github.com/SamuelGirount333/Software-Tech)
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[contributors-shield]: https://img.shields.io/github/contributors/SamuelGirount333/Software-Tech.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/SamuelGirount333/Software-Tech.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/SamuelGirount333/Software-Tech.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/SamuelGirount333/Software-Tech.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/SamuelGirount333/Software-Tech.svg?style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=0A66C2
+
+[forks-url]: https://github.com/SamuelGirount333/Software-Tech/network/members
+[stars-url]: https://github.com/SamuelGirount333/Software-Tech/stargazers
+[issues-url]: https://github.com/SamuelGirount333/Software-Tech/issues
+[license-url]: https://github.com/SamuelGirount333/Software-Tech/blob/main/LICENSE
+[linkedin-url]: https://www.linkedin.com/in/tu-linkedin-username
+
 
 
 <!-- PROJECT LOGO -->
