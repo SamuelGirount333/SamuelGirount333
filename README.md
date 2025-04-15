@@ -13,7 +13,12 @@
 [license-url]: https://github.com/SamuelGirount333/Software-Tech/blob/main/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/tu-linkedin-username
 
-
+[![Contributors][contributors-shield]](https://github.com/SamuelGirount333/Software-Tech)
+[![Forks][forks-shield]](forks-url)
+[![Stargazers][stars-shield]](stars-url)
+[![Issues][issues-shield]](issues-url)
+[![License][license-shield]](license-url)
+[![LinkedIn][linkedin-shield]](linkedin-url)
 
 <!-- PROJECT LOGO -->
 <br />
