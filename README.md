@@ -6,6 +6,7 @@ I am a software developer passionate about automation and creating innovative so
 
 # 💻 Tech Stack:
 ## Dev Stack 🧑🏽‍💻
+
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -33,6 +34,16 @@ I am a software developer passionate about automation and creating innovative so
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 
+### Automation & RPA
+![n8n](https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![PIX Studio](https://img.shields.io/badge/PIX%20Studio-%23FF5F00.svg?style=for-the-badge&logoColor=white)
+
+### Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%230070AD.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-%23002B36.svg?style=for-the-badge&logo=python&logoColor=white)
+
 ### Authenticator & Security
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
@@ -40,6 +51,7 @@ I am a software developer passionate about automation and creating innovative so
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%231772A8.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## Hosting/Deployment ☁️
 ![Odoo.sh](https://img.shields.io/badge/odoo.sh-%232F4858.svg?style=for-the-badge&logo=odoo&logoColor=white) 
